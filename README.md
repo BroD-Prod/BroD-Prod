@@ -1,7 +1,8 @@
 
 Yo, Welcome, and A Couple More Greetings,
 
-Im BroD,
+Im BroD
+
 (ˈbrodɪ)
 
 And this is my Github,
