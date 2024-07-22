@@ -1,13 +1,16 @@
-Yo, Welcome, and A Couple More Greetings,
+# Hey! I'm Brody! 👋
+
+***(' brodi)***
+
+And this is my Github, Go ahead and Stay a While!
+
+![Animated gif of a campfire, with two marshmellows on sticks](https://media.tenor.com/PPC6wmXT8ygAAAAj/adwise-summerwisefest.gif)
+
+## Here Are Some of My Current Projects 🔻
+
+## Here Are Some of My Past Projects 🔻
 
 
-Im BroD
+Thanks for Stopping By! 
 
-
-(ˈbrodɪ)
-
-
-And this is my Github,
-Enjoy your Stay!
-
-
+[*LinkedIn*](www.linkedin.com/in/brody-roth-b922a3302)
