@@ -10,6 +10,7 @@ And this is my Github, Go ahead and Stay a While!
 
 ## Here Are Some of My Past Projects 🔻
 
+https://github.com/BroD-Prod/TrendingNewsApp
 
 Thanks for Stopping By! 
 
