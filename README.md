@@ -8,6 +8,10 @@ And this is my Github, Go ahead and Stay a While!
 
 ## Here Are Some of My Current Projects 🔻
 
+https://github.com/BroD-Prod/The-B-Chain
+
+https://github.com/BroD-Prod/PasswordManager
+
 ## Here Are Some of My Past Projects 🔻
 
 https://github.com/BroD-Prod/TrendingNewsApp
