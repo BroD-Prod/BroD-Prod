@@ -6,13 +6,13 @@ I'm a Ball State Graduate with a major in **Computer Science** with a concentrat
 
 # Featured Projects
 
-  **EZVote** - A customizable polling application, where every single facet is changeable or updatable.
+  **EZVote** - A customizable polling application, where every single facet is changeable or updatable
   
   Tech: Next.js, Strapi CMS, Postgres
   
   Repo: https://github.com/BroD-Prod/EZVote
 
-  ***Smallr*** - A Full Stack web application using Node.js and React to shortend urls
+  ***Smallr*** - A Full Stack web application using Node.js and React to shorten urls
 
   Tech: Node.js, React, SQLite
 
